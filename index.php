@@ -1,8 +1,8 @@
 <?php
-
-
 get_header();
 ?>
+
+content body
 
 	
 
