@@ -50,12 +50,8 @@ nav li:hover{
 }
 
 
-body{
-    margin: 0;
-}
-header{
-    background-color: red;
-}
+
+
 
 .afficher{
     display: block;
