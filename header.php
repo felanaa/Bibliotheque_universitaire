@@ -7,5 +7,7 @@
 	<?php wp_head(); ?>
 </head>
 
-<body >
+<body> 
+	
+<?php include("navigation.php"); ?>
 

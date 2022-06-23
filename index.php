@@ -4,6 +4,7 @@
 get_header();
 ?>
 
+<<<<<<< HEAD
 <!--
 <<<<<<< HEAD
 -->
@@ -31,7 +32,12 @@ get_header();
             </ul>
         </nav>
     </div>
-    
+<!--======= 
+<?php include("slider.php"); ?>
+
+
+>>>>>>> 9b7f3615c53765de129db0b99448758745849afc
+-->
     <div class="diaporama">
         <ul id="diapo">
         <img src="images/prev.png" alt="" id="b_prev">
@@ -58,7 +64,13 @@ get_header();
         
     </div>
 
+<!--
+<<<<<<< HEAD
+=======
 
+	
+>>>>>>> 9b7f3615c53765de129db0b99448758745849afc
+-->
 <!--  =======
 >>>>>>> parent of 126125a (Styleintegration)
 	
