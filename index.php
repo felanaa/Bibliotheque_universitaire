@@ -2,9 +2,8 @@
 get_header();
 ?>
 
-<<<<<<< HEAD
 <?php include("slider.php"); ?>
-=======
+
 <div class="menu">
     <nav id="liste" class="nav">
             <ul>
@@ -55,7 +54,7 @@ get_header();
         </p>
         
     </div>
->>>>>>> 85f65ef968a5161ad4efbf0212e481a7ee1a0b69
+
 
 	
 

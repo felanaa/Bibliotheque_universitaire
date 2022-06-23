@@ -49,14 +49,14 @@ nav li:hover{
     
 }
 
-<<<<<<< HEAD
+
 body{
     margin: 0;
 }
 header{
     background-color: red;
 }
-=======
+
 .afficher{
     display: block;
 }
@@ -91,4 +91,4 @@ p {
     margin: 0px 196px auto;
     text-align: center;
 }
->>>>>>> 85f65ef968a5161ad4efbf0212e481a7ee1a0b69
+
