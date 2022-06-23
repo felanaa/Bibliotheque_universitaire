@@ -1,7 +1,12 @@
 <?php
+
+
 get_header();
 ?>
 
+<!--
+<<<<<<< HEAD
+-->
 <div class="menu">
     <nav id="liste" class="nav">
             <ul>
@@ -53,8 +58,11 @@ get_header();
         
     </div>
 
-	
 
+<!--  =======
+>>>>>>> parent of 126125a (Styleintegration)
+	
+-->
 
 <?php
 get_footer();

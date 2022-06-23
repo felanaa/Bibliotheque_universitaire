@@ -5,6 +5,7 @@ Author: the WordPress team
 Requires at least: 4.9.6
 Requires PHP: 5.2.4
 Version: 2.1
+<<<<<<< HEAD
 */
 body{
     margin: 0;
@@ -83,3 +84,6 @@ p {
     margin: 0px 196px auto;
     text-align: center;
 }
+/*
+>>>>>>> parent of 126125a (Styleintegration)
+*/
