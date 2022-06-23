@@ -6,4 +6,80 @@ Requires at least: 4.9.6
 Requires PHP: 5.2.4
 Version: 2.1
 */
+body{
+    margin: 0;
+    font-weight: bold;
+    font-family: fantasy;
+}
+#ouvrir, #fermer {
+    position: relative;
+    left: 95%;
+    width: 35px;
+    height: 35px;
+    top: 5px;
+}
+a {
+    color: brown;
+    text-decoration: none;
+}
+nav ul {
+    display: flex;
+    float: right;
+    position: relative;
+    right: 7%;
+    padding-top: 22px;
+}
+ul {
+    display: flex;
+}
+li {
+    list-style: none;
+    font-size: 22px;
+    margin-right: 20px;
+}
+nav li:hover{
+    border-bottom: 1px solid brown;
+}
+.menu {
+    background-image: url(images/photo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    background-position-y: -83px;
+    
+}
 
+.afficher{
+    display: block;
+}
+
+.cacher{
+    display: none;
+}
+
+.image {
+    width: 280px;
+    height: 200px;
+}
+#b_prev, #b_next {
+    width: 30px;
+    height: 35px;
+    position: relative;
+    top: 80px;
+    padding: 7px;
+    background-color: brown;
+}
+#b_prev {
+    margin-right: 25px;
+  }
+.diaporama{
+    margin-top: -120px;
+    height: 400px;
+}
+#diapo {
+    padding-left: 21px;
+  }
+p {
+    margin: 0px 196px auto;
+    text-align: center;
+}
