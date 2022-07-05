@@ -1,0 +1,109 @@
+@@ -1,85 +1,89 @@
+/* LOGO*/
+h1 {
+    position: relative;
+    top: 17px;
+    color: white;
+    padding-left: 10px;
+    }
+  /* LANGUE*/
+  ol{
+      display: none;
+  }
+  #btn_lang {
+      position: relative;
+      top: 35px;
+      right: 25px;
+      width: 35px;
+      height: 30px;
+      background: white;
+      border: none;
+      border-radius: 5px;
+      color: brown;
+      font-weight: bold;
+    }
+/*MENU*/
+a,li {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+#liste ul {
+  padding-left: 330px;
+  padding-top: 22px;
+}
+ul {
+  display: flex;
+}
+li {
+  list-style: none;
+  font-size: 22px;
+  
+}
+nav li {
+display: flex;
+margin-right: 20px;
+}
+nav li img{
+width: 10px;
+}
+.menu {
+  height: 105px;
+  background-position-y: -83px;
+  display: flex;
+  background-color: brown;
+  overflow: visible;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  z-index: 1;
+}
+/*SOUS-MENU*/
+.sous-menu {
+  background-color: white;
+  width: 150px;
+  padding-left: 0 !important;
+  display: none;
+  position: absolute;
+  top: 70%;
+  padding-top: 0px !important;
+  padding: 0;
+  margin: 0;
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px #80808045;
+}
+.menuderoulant {
+  padding: 10px;
+  width: 855px;
+  margin-top: 0;
+  padding-left: 290px !important;
+  margin-top: 15px !important;
+}
+.sous-menu li{
+  float: none;
+  margin: 0;
+  padding: 0;
+  width: 150px;
+}
+.sous-menu li:hover{
+  background-color: black;
+}
+.sous-menu li a{
+  display: block;
+  color: brown;
+  text-align: justify;
+}
+.menuderoulant li{
+  float: left;
+  width: 150px;
+}
+.menuderoulant li a{
+  display: block;
+  padding: 6px 10px;
+}
+.menuderoulant li:hover .sous-menu{
+  display: block;
+}
+/*
+>>>>>>> parent of 126125a (Styleintegration)
+*/

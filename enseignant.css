@@ -1,0 +1,67 @@
+/*liste des ensignant*/
+body{
+    background-color: white;
+ }
+ .liste-ens{
+     margin-left: 0%;
+     padding-top: -15cm;
+ }
+ .block {
+    margin-left: 0%;
+margin-right: 2%;
+background-color: brown;
+border-radius: 7px;
+width: 30%;
+margin-bottom: 1%;
+padding: 2px;
+  }
+   .image-ens {
+     width: 280px;
+     height: 220px;
+     margin: 20px 55px;
+   }
+ li{
+     list-style: none;
+     text-align: justify;
+ }
+ .nom-ens{
+     padding-left: 0.5cm;
+     font-family: 'Courier New', Courier, monospace;
+     text-align: center;
+     color: white;
+ }
+ .description{
+     text-align: left;
+     padding-left: 0.2cm;
+     color:white;
+ }
+ /*footer(contact)*/
+ footer{
+     background-color: brown;
+ }
+ #icon{
+     width: 30px;
+     position: relative;
+    top: 5px;
+ }
+ #contact{
+ color: white;
+ text-align: center;
+ text-transform: uppercase;
+ height: auto;
+ width: 4cm;
+ margin-bottom: 0px;
+ }
+ footer div ul li {
+     display: inline-block;
+     padding-bottom: 1cm;
+     padding: 4% 5%;
+     color: white;
+     text-align: justify;
+   }
+ footer ul{
+     margin-bottom: 0px;
+ }
+ strong {
+     font-size: 18px;
+   }

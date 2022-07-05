@@ -1,0 +1,65 @@
+body{
+  margin: 0;
+  font-family: fantasy;
+}
+#titre{
+    font-family:"GOTHICB0";
+    font-size:20px;
+    text-align:center;
+}
+.association {
+    margin-top: 10%;
+  }
+/* partie footer */
+footer{
+    height:5cm;
+    width:100%;
+    margin:0 0 0 0;
+}
+.footer-reseau{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    font-family: "socialmedia";
+    position:relative;
+    top:2cm;
+}
+.social-media{
+    margin-left:1cm;
+    margin-right:1cm;
+    margin-top:0cm;
+}
+#facebook{
+    color:blue;
+    text-decoration:none;
+}
+#facebook:hover{
+    color:black;
+}
+#e-mail{
+    color:red;
+    text-decoration:none;
+}
+#e-mail:hover{
+    color:black;
+}
+#twiter{
+    color:skyblue;
+    text-decoration:none;
+}
+#twiter:hover{
+    color:black;
+}
+.social-media-name{
+    font-family:verdana;
+    color:black;
+    font-size:20px;
+    text-align:center;
+}
+.social-media img {
+  width: 60px;
+}
+.link{
+    text-decoration:none;
+}
