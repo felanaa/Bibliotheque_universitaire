@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="<?php bloginfo('template_directory') ?>/style.css">
-    <link rel="stylesheet" href="https://localhost/wordpress/wp-content/themes/Bibliotheque_universitaire/style.css">
-</head>
-<body>
+
 <div class="milieu">
             <div class="centre">
             <h1>Centre Universitaire Regional Androy</h1>
@@ -47,5 +37,3 @@
         <h2>Le corps enseignants</h2>
         <p> </p>
     </div>    
-</body>
-</html>

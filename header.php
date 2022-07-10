@@ -21,5 +21,21 @@
 
 <body> 
 	
-<?php include("navigation.php"); ?>
+<header>
+    <div class="logo_cura">
+        <img src="" alt="logo_cura">
+    </div>
+    <div class="navigation">
+        <nav>
+            <?php wp_nav_menu( ['theme_location' => 'header'] ) ?>
+        </nav>
+        <div class="langue">
+                <button id="btn_lang">FR</button>
+                <ol>
+                    <li>Français</li>
+                    <li>Anglais</li>
+                </ol>
+        </div>
+    </div>
+</header>
 
