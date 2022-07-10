@@ -1,3 +1,4 @@
+
 <?php 
 function theme_supports(){
     add_theme_support( 'menus' );
